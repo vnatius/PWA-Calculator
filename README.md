@@ -1,2 +1,4 @@
 # PWA-Calculator
- A calculator busilt on JavaScript to function as a web and a mobile application
+A Calculator developed as a progressive web application, this application was built using Javascript, CSS and HTML. 
+
+You can easily download the project and see how it works, there are no packages needed to be installed. Its purely JavaScript, CSS and HTML.
